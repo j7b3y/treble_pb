@@ -4,7 +4,7 @@
     "variants": [
       {
         "name": "blaze_arm64_bvN",
-        "size": "1461677292",
+        "size": "2403885056",
         "url": "https://github.com/j7b3y/treble_pb/releases/download/v415_v1.4/ProjectBlaze_arm64_ab.img.xz"
       }
     ]
