@@ -21,7 +21,7 @@ repo sync -c --force-sync --optimized-fetch --no-tags --no-clone-bundle --prune
 
 Apply patch:
 ```
-git clone https://github.com/j7b3y/blaze_patches_unified -b blaze-12.0
+git clone https://github.com/j7b3y/blaze_patches_unified -b blaze-12.1
 bash ./blaze_patches_unified/apply-patchers.sh blaze_patches_unified
 
 ```
