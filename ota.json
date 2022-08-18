@@ -6,11 +6,14 @@
         "name": "blaze_arm64_bvN",
         "size": "2403885056",
         "url": "https://github.com/j7b3y/treble_pb/releases/download/v1.4_v415/ProjectBlaze_arm64_ab.img.xz"
+<<<<<<< HEAD
       },
       {
         "name": "blaze_arm64_bvN-vndklite",
         "size": "3670016000",
         "url": "https://github.com/j7b3y/treble_pb/releases/download/v1.4_v415/ProjectBlaze_arm64-ab-vndklite-UNOFFICIAL.img.xz"
+=======
+>>>>>>> 1eee907e4b6949f3ff0c3dfa367a2db7a5ecc0b0
       }
     ]
   }
