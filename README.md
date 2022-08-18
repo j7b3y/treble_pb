@@ -11,7 +11,7 @@ mkdir blaze; cd blaze
 Initializing a local repository and adding manifests:
 ```
 repo init -u https://github.com/ProjectBlaze/manifest.git -b 12.1
-git clone https://github.com/j7b3y/treble_pb .repo/local_manifests -b android-12.1
+git clone https://github.com/j7b3y/treble_pb .repo/local_manifests -b android-12.0
 ```
 
 Then to sync up:
