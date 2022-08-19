@@ -35,7 +35,7 @@ bash generate.sh blaze
 Build:
 ```
 . build/envsetup.sh
-lunch treble_arm64_bvN-userdebug
+lunch blaze_arm64_bvN-userdebug
 WITHOUT_CHECK_API=true make systemimage
 ```  
 
