@@ -11,9 +11,10 @@ body:
       description: | 
         Please do not post bugs that can be confirmed by phhusson AOSP.
         Also, for Gapps, click [here](https://github.com/j7b3y/treble_pb/issues/2#issuecomment-1220083780).
+        *Additional [commits](https://github.com/j7b3y/blaze_patches_unified) may also be helpful.
       placeholder: |
         Example:
-          Reverted to bootloader on some devices.
+          Return to bootloader on Z01R(Zenfone5z).
     validations:
       required: true
 
