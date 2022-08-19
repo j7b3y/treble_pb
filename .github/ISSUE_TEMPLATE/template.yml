@@ -1,0 +1,47 @@
+name: "treble pe issues"
+description: "Template"
+labels: ["issue"]
+
+body:
+
+  - type: textarea
+    id: detail
+    attributes:
+      label: Inquiry content
+      description: | 
+        Please do not post bugs that can be confirmed by phhusson AOSP.
+        Also, for Gapps, click [here](https://github.com/j7b3y/treble_pb/issues/2#issuecomment-1220083780).
+      placeholder: |
+        Example:
+          Reverted to bootloader on some devices.
+    validations:
+      required: true
+
+  - type: input
+    id: device-name
+    attributes:
+      label: Device name
+      description: Device name.
+      placeholder: "Example: Huawei P20 Lite, Asus_Z01R"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: rom-type
+    attributes:
+      label: Select ROM type
+      multiple: false
+      options:
+        - Normal
+        - vndklite
+    validations:
+      required: true
+
+  - type: input
+    id: installed-mods
+    attributes:
+      label: installed-mods
+      description: Please write the mods you have installed.
+      placeholder: "Example: Magisk,OpenGapps-stock"
+    validations:
+        required: false
