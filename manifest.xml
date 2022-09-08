@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 <remote name="phh" fetch="https://github.com/phhusson/" />
+<remote name="MindGapps" fetch="https://gitlab.com/MindTheGapps/">
 
 <project path="vendor/hardware_overlay" name="vendor_hardware_overlay" remote="phh" revision="pie" />
 <project path="vendor/vndk-tests" name="vendor_vndk-tests" remote="phh" revision="master" />
@@ -10,4 +11,5 @@
 <project name="treble_app" path="treble_app" remote="phh" revision="master" />
 <project path="device/phh/treble" name="device_phh_treble" remote="phh" revision="android-12.0" />
 <project name="notmyst33d/libaptX" path="external/aptx" remote="github" revision="main" />
+<project name="vendor_gapps" path="vendor/gapps" remote="MindGapps" revision="sigma" />
 </manifest>
