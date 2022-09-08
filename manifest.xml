@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 <remote name="phh" fetch="https://github.com/phhusson/" />
-<remote name="MindGapps" fetch="https://gitlab.com/MindTheGapps/">
+<remote name="MindGapps" fetch="https://gitlab.com/MindTheGapps/" />
 
 <project path="vendor/hardware_overlay" name="vendor_hardware_overlay" remote="phh" revision="pie" />
 <project path="vendor/vndk-tests" name="vendor_vndk-tests" remote="phh" revision="master" />
