@@ -6,6 +6,11 @@
         "name": "blaze_arm64_bvN",
         "size": "2484510720",
         "url": "https://sourceforge.net/projects/any-artifact/files/GSI/ProjectBlaze/v2.5_230224/ProjectBlaze_arm64-ab.img.xz/download"
+      },
+      {
+        "name": "blaze_arm64_bvN-vndklite",
+        "size": "2484510720",
+        "url": "https://sourceforge.net/projects/any-artifact/files/GSI/ProjectBlaze/v2.5_230224/ProjectBlaze_arm64-ab-vndklite.img.xz/download"
       }
     ]
   }
