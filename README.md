@@ -41,7 +41,7 @@ WITHOUT_CHECK_API=true make systemimage
 
 Gapps:  
 Install the following Magisk Module.  
-[LiteGapps](https://sourceforge.net/projects/litegapps/files/litegapps/arm64/33/)
+- [LiteGapps](https://sourceforge.net/projects/litegapps/files/litegapps/arm64/33/)
 
 ## Thanks  
 
