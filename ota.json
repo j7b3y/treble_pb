@@ -1,16 +1,11 @@
 {
-    "version": "v415",
-    "date": "1660169103",
+    "version": "v2023.02.24",
+    "date": "1677231741",
     "variants": [
       {
         "name": "blaze_arm64_bvN",
-        "size": "2403885056",
-        "url": "https://github.com/j7b3y/treble_pb/releases/download/v1.4_v415/ProjectBlaze_arm64-ab.img.xz"
-      },
-      {
-        "name": "blaze_arm64_bvN-vndklite",
-        "size": "3670016000",
-        "url": "https://github.com/j7b3y/treble_pb/releases/download/v1.4_v415/ProjectBlaze_arm64-ab-vndklite-UNOFFICIAL.img.xz"
+        "size": "2484510720",
+        "url": "https://sourceforge.net/projects/any-artifact/files/GSI/ProjectBlaze/v2.5_230224/ProjectBlaze_arm64-ab.img.xz/download"
       }
     ]
   }
