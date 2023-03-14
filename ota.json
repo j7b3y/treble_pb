@@ -1,16 +1,16 @@
 {
-    "version": "v2023.02.24",
-    "date": "1677231741",
+    "version": "v2023.03.15",
+    "date": "1678807615",
     "variants": [
       {
         "name": "blaze_arm64_bvN",
-        "size": "2484510720",
-        "url": "https://sourceforge.net/projects/any-artifact/files/GSI/ProjectBlaze/v2.5_230224/ProjectBlaze_arm64-ab.img.xz/download"
+        "size": "2491154432",
+        "url": "https://sourceforge.net/projects/any-artifact/files/GSI/ProjectBlaze/v2.5_230315/ProjectBlaze_arm64-ab.img.xz/download"
       },
       {
         "name": "blaze_arm64_bvN-vndklite",
-        "size": "2484510720",
-        "url": "https://sourceforge.net/projects/any-artifact/files/GSI/ProjectBlaze/v2.5_230224/ProjectBlaze_arm64-ab-vndklite.img.xz/download"
+        "size": "2491154432",
+        "url": "https://sourceforge.net/projects/any-artifact/files/GSI/ProjectBlaze/v2.5_230315/ProjectBlaze_arm64-ab-vndklite.img.xz/download"
       }
     ]
   }
