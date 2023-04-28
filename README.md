@@ -26,12 +26,6 @@ bash ./blaze_patches_unified/apply-patchers.sh blaze_patches_unified
 
 ```
 
-Generating mk:
-```
-cd device/phh/treble
-bash generate.sh blaze
-```
-
 Build:
 ```
 . build/envsetup.sh
